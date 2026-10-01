@@ -931,7 +931,7 @@ function ContactPage() {
             </a>
 
             <a
-              href="www.github.com"
+              href="https://github.com/atharva1dahake/"
               target="_blank"
               rel="noreferrer"
             >
