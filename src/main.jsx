@@ -340,7 +340,7 @@ function HomePage({ navigate }) {
         <div className="quick-stats">
 
           <div>
-            <strong>8.4+</strong>
+            <strong>8.5+</strong>
             <span>CGPA</span>
           </div>
 
@@ -580,7 +580,7 @@ function AboutPage({ navigate }) {
 
           <InfoCard
             title="Academic Score"
-            value="8.4+ CGPA"
+            value="8.5+ CGPA"
           />
 
           <InfoCard
@@ -638,11 +638,11 @@ function EducationPage() {
           title="Bachelor of Computer Applications"
           institution="Modern College of Arts, Science and Commerce, Pune"
           description="Currently pursuing BCA with a focus on programming, software development, databases and modern web technologies."
-          score="8.4+ CGPA"
+          score="8.5+ CGPA"
         />
 
         <EducationCard
-          year="2022 — 2023"
+          year="2021 — 2022"
           title="Higher Secondary Education"
           institution="Maharashtra State Board"
           description="Completed higher secondary education with a strong academic foundation."
@@ -931,7 +931,7 @@ function ContactPage() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/atharva-dahake-040421248/"
+              href="www.github.com"
               target="_blank"
               rel="noreferrer"
             >
@@ -943,7 +943,7 @@ function ContactPage() {
             </a>
 
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/atharva-dahake-040421248/"
               target="_blank"
               rel="noreferrer"
             >
