@@ -340,8 +340,8 @@ function HomePage({ navigate }) {
         <div className="quick-stats">
 
           <div>
-            <strong>8.5+</strong>
-            <span>CGPA</span>
+            <strong>3+</strong>
+            <span>Projects</span>
           </div>
 
           <div>
